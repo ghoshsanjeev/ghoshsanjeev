@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjeev
 - 👀 I’m interested in programing and gaming
-- 🌱 I’m currently learning cloud technologies
+- 🌱 I’m currently working on full stack, microservices using cloud
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me sanjeev.kaaj@gmail.com
 <!---
